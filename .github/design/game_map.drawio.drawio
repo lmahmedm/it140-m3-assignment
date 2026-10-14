@@ -1,0 +1,70 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="88sZW7KcUf01I3p-XhPG">
+    <mxGraphModel dx="1174" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TiOVVghRaSA2PdSp21sc-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Main lobby&lt;div&gt;Start: Safe entryl&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Items: 0&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="280" x="280" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="TiOVVghRaSA2PdSp21sc-15" edge="1" parent="1" source="TiOVVghRaSA2PdSp21sc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TiOVVghRaSA2PdSp21sc-1" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TiOVVghRaSA2PdSp21sc-18" edge="1" parent="1" source="TiOVVghRaSA2PdSp21sc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.008;exitY=0.613;exitDx=0;exitDy=0;exitPerimeter=0;" target="TiOVVghRaSA2PdSp21sc-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TiOVVghRaSA2PdSp21sc-19" edge="1" parent="1" source="TiOVVghRaSA2PdSp21sc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="TiOVVghRaSA2PdSp21sc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TiOVVghRaSA2PdSp21sc-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ventilation shaft&lt;div&gt;Items: Datapad&lt;/div&gt;&lt;div&gt;Central navigation&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="360" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="TiOVVghRaSA2PdSp21sc-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Server HUB&lt;div&gt;Ha&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="80" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="TiOVVghRaSA2PdSp21sc-4" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Security SubstationLaser Cutter&amp;nbsp;Controls local security&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="160" x="560" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TiOVVghRaSA2PdSp21sc-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Executive lounge&lt;div&gt;Decryption Decoy&lt;/div&gt;&lt;div&gt;Final staging area&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="80" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TiOVVghRaSA2PdSp21sc-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="CEO&#39;s Penthouse&lt;div&gt;Final encounter&lt;/div&gt;&lt;div&gt;Items: 0&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="200" x="480" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TiOVVghRaSA2PdSp21sc-7" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="560" as="sourcePoint" />
+            <mxPoint x="120" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TiOVVghRaSA2PdSp21sc-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;strokeColor=light-dark(#ffffff, #ededed);" value="NORTH" vertex="1">
+          <mxGeometry height="10" width="60" x="90" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="TiOVVghRaSA2PdSp21sc-9" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="40" y="600" as="sourcePoint" />
+            <mxPoint x="760" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TiOVVghRaSA2PdSp21sc-10" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="40" y="600" as="sourcePoint" />
+            <mxPoint x="40" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TiOVVghRaSA2PdSp21sc-13" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="760" y="601" as="sourcePoint" />
+            <mxPoint x="760" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TiOVVghRaSA2PdSp21sc-14" edge="1" parent="1" style="shape=link;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="40" y="40" as="sourcePoint" />
+            <mxPoint x="760" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
